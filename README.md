@@ -5,6 +5,10 @@ Homework for Week 1 Coding Bootcamp - Code Refactoring
 ## Description 
 ​
 This project's purpose was to take pre-written code and ensured that it worked on a web browser, especially Google Chrome. The task was make sure all elements on the page work properly, making sure links function and lead where they are supposed to. The second task was to make sure the page was accessible to browser readers ensuring everyone accessing the page understood content, especially the images. Alt tags were used to do this. The final piece of the project was to clean up the code, make it easier to read. The CSS required a lot of consolidation, combining selectors, declarations, and values.
+
+## Technology
+
+HTML, CSS, and some good luck
 ​
 ​
 ## Installation
@@ -19,6 +23,12 @@ To use this code, open index.html in a web browser, test the functionality of th
 ## Credits
 ​
 I would like to thank the Academy for all their support throught this arduous process.
+
+## Contact
+
+kddayhoff@gmail.com
+https://github.com/kddayhoff
+www.linkedin.com/in/kddayhoff
 ​
 ​
 ​
