@@ -4,7 +4,7 @@
     margin: 0;
 }
 
-/*this is a new comment*/
+
 body {
     background-color: #d9dcd6;
 }
@@ -95,7 +95,7 @@ p {
     color: #ffffff;
 }
 
-
+/* consolidated class headings so there wasn't redundant code */
 .benefit-lead h3, 
 .benefit-cost h3, 
 .benefit-brand h3, {
